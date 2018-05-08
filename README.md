@@ -1,4 +1,4 @@
-# Elastos Hackathon 2018 (Beijing) 亦来云2018年度(北京)Hackathon
+# Elastos Hackathon 2018 (Beijing)
 
 ## 背景
 为了推进技术落地、开拓产品思维、发现优秀团队，亦来云主办此次黑客马拉松编程比赛。
